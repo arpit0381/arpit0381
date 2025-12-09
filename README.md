@@ -131,17 +131,9 @@
 > 🎵 Live music from my coding desk  
 
 <p align="center">
-
-  <!-- 
-    IMPORTANT:
-    To make this truly LIVE:
-    1. Go to: https://github.com/kittinan/spotify-github-profile
-    2. Click "Connect with Spotify"
-    3. Customize the card and copy the <img> markdown they give you
-    4. Replace the <img> tag below with your generated one
-  -->
-
-  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bxy3qreplkab18gabj86sxlbp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=bxy3qreplkab18gabj86sxlbp&redirect=true)" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bxy3qreplkab18gabj86sxlbp&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bxy3qreplkab18gabj86sxlbp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
+  </a>
 </p>
 
 ---
