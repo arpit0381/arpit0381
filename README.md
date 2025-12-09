@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=220&section=header&text=Arpit%20Bajpai&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Founder%20%40%20Catalyst%20Crew;Full%20Stack%20Developer;MERN%20Stack%20Specialist;UI%2FUX%20Designer;Always%20building%20something%20new...&center=true&width=650&height=50" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpit0381&label=Profile%20Views&style=for-the-badge" />
+</p>
+
 <h3 align="center">🚀 Founder @ Catalyst Crew | Full Stack Developer | UI/UX Designer | MERN Stack Specialist</h3>
 
 <p align="center">
@@ -30,7 +38,7 @@
 - 👑 Founder & Technical Head @ **Catalyst Crew**
 - 💻 MERN Stack Specialist  
 - 🎨 UI/UX & Motion Designer  
-- 🤖 Automation & AI Builder  
+- 🤖 Automation & AI Enthusiast  
 - 📍 Kanpur, India  
 
 ---
@@ -59,7 +67,15 @@
 
 ---
 
-## 🏆 Experience  
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpit0381&theme=darkhub&margin-w=15&margin-h=15&no-frame=false" />
+</p>
+
+---
+
+## 🧑‍💻 Experience  
 
 - 👑 **Founder & CEO – Catalyst Crew**  
 - ⚡ **Technical Head – LOGIX Club PSIT-CHE**  
@@ -78,19 +94,35 @@
 
 ## 📜 Certifications  
 
-✅ AWS APAC – Solutions Architecture  
-✅ Deloitte Australia – Technology Simulation  
-✅ Python Programming  
-✅ Industry Skill Certifications  
+- ✅ AWS APAC – Solutions Architecture  
+- ✅ Deloitte Australia – Technology Simulation  
+- ✅ Python Programming  
+- ✅ Other industry skill certifications  
 
 ---
 
 ## 🚀 Featured Projects  
 
-🔥 Alex AI Chatbot  
-🌐 Sulax Solar Official Website  
-🎨 Advanced Developer Portfolio  
-🏆 Hackathons, ERP & Automation Systems  
+- 🔥 **Alex AI Chatbot** – Smart conversational bot for the web  
+- 🌐 **Sulax Solar Official Website** – Modern, clean, responsive site  
+- 🎨 **Advanced Developer Portfolio** – React + TS + Tailwind + Framer Motion  
+- 🏆 **ERP / Automation & Hackathon Projects**  
+
+---
+
+## 📊 GitHub Power Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit0381&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arpit0381&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit0381&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -99,22 +131,17 @@
 > 🎵 Live music from my coding desk  
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7x6q4nkrzjbfeid39r564nqru&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false" />
-</p>
 
-⚠️ IMPORTANT:  
-If this widget doesn’t load for you, replace this part:  
-`uid=31p7x6q4nkrzjbfeid39r564nqru`  
-with **your own Spotify User ID**.
+  <!-- 
+    IMPORTANT:
+    To make this truly LIVE:
+    1. Go to: https://github.com/kittinan/spotify-github-profile
+    2. Click "Connect with Spotify"
+    3. Customize the card and copy the <img> markdown they give you
+    4. Replace the <img> tag below with your generated one
+  -->
 
----
-
-## 📊 GitHub Power Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit0381&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit0381&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit0381&layout=compact&theme=radical">
+  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bxy3qreplkab18gabj86sxlbp&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=bxy3qreplkab18gabj86sxlbp&redirect=true)" />
 </p>
 
 ---
@@ -130,9 +157,9 @@ with **your own Spotify User ID**.
 
 ## 🌍 Connect With Me  
 
-🔗 LinkedIn – https://www.linkedin.com/in/arpit-bajpai-6780aa220  
-🌐 Portfolio – https://connect-me-pearl-seven.vercel.app  
-🐦 Twitter/X – @Arpit_Bajpai038  
+- 🔗 **LinkedIn** – https://www.linkedin.com/in/arpit-bajpai-6780aa220  
+- 🌐 **Portfolio** – https://connect-me-pearl-seven.vercel.app  
+- 🐦 **Twitter/X** – @Arpit_Bajpai038  
 
 ---
 
@@ -140,4 +167,4 @@ with **your own Spotify User ID**.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
 </p>
 
-<h3 align="center">⚡ “Building the Future with Code, Creativity & Courage.” ⚡</h3>
+<h3 align="center">⚡ “Building the future with code, creativity & courage.” ⚡</h3>
