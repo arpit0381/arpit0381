@@ -1,64 +1,71 @@
-<h1 align="center">Hey, I'm Arpit Bajpai 👋</h1>
-<h3 align="center">Founder @ Catalyst Crew | Full Stack Developer | UI/UX Designer | Tech Entrepreneur</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=220&section=header&text=Arpit%20Bajpai&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">🚀 Founder @ Catalyst Crew | Full Stack Developer | UI/UX Designer | MERN Stack Specialist</h3>
 
 <p align="center">
-  🚀 Chasing big dreams with clean code & bold designs <br>
-  💻 MERN Stack Specialist | ⚛️ React Enthusiast | 🎨 UI/UX Designer  
+  <a href="https://www.linkedin.com/in/arpit-bajpai-6780aa220">
+    <img src="https://img.shields.io/badge/LinkedIn-Arpit%20Bajpai-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://connect-me-pearl-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live🔥-black?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://github.com/arpit0381">
+    <img src="https://img.shields.io/badge/GitHub-arpit0381-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:arpitbajpai038@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🧬 About Me  
 
-I'm a **passionate Full Stack Developer & Startup Builder** who loves transforming ideas into powerful digital products.  
-From **animated frontends** to **scalable backends**, I enjoy building things that **look beautiful and work flawlessly**.  
+✨ I turn **ideas into interfaces**,  
+⚙️ I turn **logic into systems**,  
+🚀 And I turn **dreams into startups**.  
 
-- 👨‍💻 Founder & Technical Head at **Catalyst Crew**
-- 🎯 Specialized in **MERN Stack Development**
-- 🎨 UI/UX, Motion & Branding Designer
-- 💡 Obsessed with **Startups, Innovation & Automation**
-- 📍 Kanpur, India
+- 👑 Founder & Technical Head @ **Catalyst Crew**
+- 💻 MERN Stack Specialist  
+- 🎨 UI/UX & Motion Designer  
+- 🤖 Automation & AI Builder  
+- 📍 Kanpur, India  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Tools  
 
-### 👨‍💻 Frontend  
-- HTML5, CSS3, JavaScript  
-- React.js, TypeScript  
-- Tailwind CSS, Bootstrap  
-- GSAP, Framer Motion, Material UI  
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,materialui,gsap" />
+</p>
 
 ### ⚙️ Backend  
-- Node.js  
-- Express.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🧠 Database  
-- MongoDB  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ### 🧰 Tools & Platforms  
-- Git, GitHub  
-- Vercel, Netlify, Render  
-- Figma, Canva, Adobe Illustrator  
-- Notion, Trello  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,canva,notion,trello" />
+</p>
 
 ---
 
 ## 🏆 Experience  
 
-- **Founder & CEO – Catalyst Crew**  
-  Building advanced websites, designs, posters & digital solutions  
-
-- **Technical Head – LOGIX Club (PSIT-CHE)**  
-  Leading technical initiatives & project development  
-
-- **Secretary – Energy Club PSIT-CHE**  
-  Documentation, communication & event management  
-
-- **Graphic Designer – Energy Club PSIT**  
-  Designed official posters & creative assets  
-
-- **Sales Captain – Posterwa**  
+- 👑 **Founder & CEO – Catalyst Crew**  
+- ⚡ **Technical Head – LOGIX Club PSIT-CHE**  
+- 🧾 **Secretary – Energy Club PSIT-CHE**  
+- 🎨 **Graphic Designer – Energy Club PSIT**  
+- 💼 **Sales Captain – Posterwa**  
 
 ---
 
@@ -71,32 +78,66 @@ From **animated frontends** to **scalable backends**, I enjoy building things th
 
 ## 📜 Certifications  
 
-- ✅ AWS APAC – Solutions Architecture (Forage)  
-- ✅ Deloitte Australia – Technology Job Simulation  
-- ✅ Python Programming  
-- ✅ And more...
+✅ AWS APAC – Solutions Architecture  
+✅ Deloitte Australia – Technology Simulation  
+✅ Python Programming  
+✅ Industry Skill Certifications  
 
 ---
 
-## 🔥 Featured Projects  
+## 🚀 Featured Projects  
 
-- ⚡ **Alex Chatbot (AI Web Bot)**
-- 🌐 **Sulax Solar Official Website**
-- 🎨 **Advanced Developer Portfolio**
-- 🏆 **Multiple Automation & Management Systems**
+🔥 Alex AI Chatbot  
+🌐 Sulax Solar Official Website  
+🎨 Advanced Developer Portfolio  
+🏆 Hackathons, ERP & Automation Systems  
 
 ---
 
-## 📊 GitHub Stats  
+## 🎧 Now Playing on Spotify  
+
+> 🎵 Live music from my coding desk  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpit0381&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit0381&theme=radical" height="165">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p7x6q4nkrzjbfeid39r564nqru&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false" />
 </p>
+
+⚠️ IMPORTANT:  
+If this widget doesn’t load for you, replace this part:  
+`uid=31p7x6q4nkrzjbfeid39r564nqru`  
+with **your own Spotify User ID**.
+
+---
+
+## 📊 GitHub Power Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit0381&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit0381&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit0381&layout=compact&theme=radical">
+</p>
+
+---
+
+## 💼 Open For  
+
+✅ Freelance Work  
+✅ Internships  
+✅ Startup Collaborations  
+✅ Full Stack Dev Roles  
 
 ---
 
 ## 🌍 Connect With Me  
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/arpit-bajpai-6780aa220  
-- 🌐 **Portfolio:** https://co
+🔗 LinkedIn – https://www.linkedin.com/in/arpit-bajpai-6780aa220  
+🌐 Portfolio – https://connect-me-pearl-seven.vercel.app  
+🐦 Twitter/X – @Arpit_Bajpai038  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
+</p>
+
+<h3 align="center">⚡ “Building the Future with Code, Creativity & Courage.” ⚡</h3>
