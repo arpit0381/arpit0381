@@ -167,51 +167,7 @@ const ArpitBajpai = {
 </picture>
 </p>
 
-<details>
-<summary>⚙️ How to activate the Snake (3 easy steps)</summary>
 
-**Step 1** — In your `arpit0381/arpit0381` repo, create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2** — Go to **Settings → Actions → General** → set Workflow permissions to **Read and write permissions** → Save.
-
-**Step 3** — Go to **Actions tab** → click **Generate Snake Animation** → **Run workflow**. Done!
-
-</details>
 
 ---
 
