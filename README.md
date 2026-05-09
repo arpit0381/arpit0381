@@ -1,163 +1,260 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:800000,100:000000&height=240&section=header&text=Arpit%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20·%20Full%20Stack%20Dev%20·%20UI%2FUX%20Designer&descAlignY=60&descAlign=50&descSize=18&stroke=ff3333&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1B4F8A,100:CC2200&height=260&section=header&text=Arpit%20Bajpai&fontSize=70&fontColor=E8B83A&animation=fadeIn&fontAlignY=38&desc=⚓%20King%20of%20the%20Developers%20⚓&descAlignY=58&descAlign=50&descSize=22&stroke=C8A84B&strokeWidth=2" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=FF3333&center=true&vCenter=true&width=700&height=55&lines=🚀+Founder+%40+Catalyst+Crew;⚡+Full+Stack+%7C+MERN+Specialist;🎨+UI%2FUX+Designer+%7C+Product+Thinker;🔥+Always+Building+Something+New...;💡+Ideas+→+Interfaces+→+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=700&size=26&duration=2500&pause=1000&color=E8B83A&center=true&vCenter=true&width=750&height=60&lines=🏴‍☠️+Founder+%40+Catalyst+Crew;⚓+Full+Stack+Dev+|+MERN+Specialist;🍎+Ate+the+Code-Code+no+Mi+Devil+Fruit;🗺️+Navigating+the+Grand+Line+of+Tech;🔥+My+dream+is+to+become+King+of+Pirates!" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=arpit0381&label=👁️%20Profile%20Views&color=ff3333&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/arpit0381?label=Followers&style=for-the-badge&color=ff3333&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=arpit0381&label=Nakama+Count&color=CC2200&style=for-the-badge&labelColor=0A1628" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/arpit0381?label=Crew+Members&style=for-the-badge&color=E8B83A&labelColor=0A1628" />
+&nbsp;
+<img src="https://img.shields.io/badge/Bounty-500%2C000%2C000+Berries-CC2200?style=for-the-badge&labelColor=0A1628" />
 </p>
 
 ---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arpit-bajpai-6780aa220">
-<img src="https://img.shields.io/badge/LinkedIn-Arpit%20Bajpai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=E8B83A&label=Den+Den+Mushi"/>
+</a>&nbsp;
 <a href="https://connect-me-pearl-seven.vercel.app/">
-<img src="https://img.shields.io/badge/🔥%20Portfolio-Live-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=vercel&logoColor=E8B83A&label=Thousand+Sunny"/>
+</a>&nbsp;
 <a href="https://github.com/arpit0381">
-<img src="https://img.shields.io/badge/GitHub-arpit0381-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=E8B83A&label=Log+Pose"/>
+</a>&nbsp;
 <a href="mailto:arpitbajpai038@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-arpitbajpai038-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0A1628?style=for-the-badge&logo=gmail&logoColor=E8B83A&label=SOS+Signal"/>
 </a>
 </p>
 
 ---
 
-## 🧬 About Me
+## ☠️ WANTED — DEAD OR ALIVE
+
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+║           ─── WANTED ───             ║
+║                                      ║
+║            A  R  P  I  T             ║
+║            B  A  J  P  A  I          ║
+║                                      ║
+║   ┌──────────────────────────────┐  ║
+║   │     FULL STACK PIRATE        │  ║
+║   │     MERN SEA CONQUEROR       │  ║
+║   │     FOUNDER @ CATALYST CREW  │  ║
+║   └──────────────────────────────┘  ║
+║                                      ║
+║   BOUNTY:  ฿ 500,000,000 Berries    ║
+╚══════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🧬 Captain's Log — About Me
 
 ```javascript
-const arpit = {
-  name: "Arpit Bajpai",
-  role: "Founder @ Catalyst Crew | Full Stack Developer | UI/UX Designer",
-  location: "Kanpur, India 🇮🇳",
-  stack: ["React", "Node.js", "MongoDB", "Express", "TypeScript"],
-  currentlyBuilding: "Catalyst Crew — turning ideas into startups",
-  superpower: "Turning caffeine into scalable web applications ☕",
-  funFact: "My code either works perfectly or I have no idea why 😂",
+const ArpitBajpai = {
+  title: "👑 King of the Developers (in progress...)",
+  crew: "⚓ Catalyst Crew — Founder & Captain",
+  location: "🗺️ Kanpur, India | East Blue → Grand Line",
+
+  devilFruit: "Code-Code no Mi (Paramecia Type)",
+  haki: ["Conqueror's: Vision", "Armament: Clean Code", "Observation: UI/UX"],
+
+  weapons: {
+    frontend: ["React ⚛️", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    backend: ["Node.js 🟢", "Express.js", "REST APIs", "GraphQL"],
+    database: ["MongoDB 🍃", "PostgreSQL", "Redis"],
+    tools: ["Docker 🐳", "Git", "Figma 🎨", "Vercel", "Postman"],
+  },
+
+  nakama: ["Beautiful UI", "Scalable APIs", "Clean Architecture", "Ship fast. Iterate faster."],
+  currentMission: "Building Catalyst Crew — turning ideas into reality ⚔️",
+  lifePhilosophy: "「 I will become King of the Pirates! 」",
+  funFact: "My code compiles on first try... sometimes 🏴‍☠️",
 };
 ```
 
-> ✨ I turn **ideas into interfaces**,
-> ⚙️ I turn **logic into systems**,
-> 🚀 And I turn **dreams into startups**.
+---
+
+## 🍎 Devil Fruit Powers — Tech Arsenal
+
+> *"Every great developer ate a Devil Fruit. Mine gave me the power to build anything."*
+
+### ⚛️ Frontend Mastery
+![React](https://img.shields.io/badge/React-0A1628?style=for-the-badge&logo=react&logoColor=61DAFB&label=React-React+no+Mi)
+![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=nextdotjs&logoColor=E8B83A&label=Next-Next+no+Mi)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=3178C6&label=Type-Type+no+Mi)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0A1628?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&label=Wind-Wind+no+Mi)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A1628?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0A1628?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0A1628?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Framer](https://img.shields.io/badge/Framer_Motion-0A1628?style=for-the-badge&logo=framer&logoColor=E8B83A)
+
+### ⚙️ Backend Strength
+![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=for-the-badge&logo=nodedotjs&logoColor=339933&label=Node-Node+no+Mi)
+![Express](https://img.shields.io/badge/Express.js-0A1628?style=for-the-badge&logo=express&logoColor=E8B83A)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A1628?style=for-the-badge&logo=mongodb&logoColor=47A248&label=Mongo-Mongo+no+Mi)
+![REST API](https://img.shields.io/badge/REST+API-0A1628?style=for-the-badge&logo=fastapi&logoColor=CC2200)
+![GraphQL](https://img.shields.io/badge/GraphQL-0A1628?style=for-the-badge&logo=graphql&logoColor=E10098)
+
+### 🚀 DevOps & Design
+![Git](https://img.shields.io/badge/Git-0A1628?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0A1628?style=for-the-badge&logo=docker&logoColor=2496ED&label=Docker-Docker+no+Mi)
+![Vercel](https://img.shields.io/badge/Vercel-0A1628?style=for-the-badge&logo=vercel&logoColor=E8B83A)
+![Figma](https://img.shields.io/badge/Figma-0A1628?style=for-the-badge&logo=figma&logoColor=F24E1E&label=Figma-Figma+no+Mi)
+![Postman](https://img.shields.io/badge/Postman-0A1628?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS+Code-0A1628?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Bounty Board — GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arpit0381&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=arpit0381&show_icons=true&theme=merko&hide_border=true&bg_color=0A1628&title_color=E8B83A&icon_color=CC2200&text_color=C8A84B&ring_color=E8B83A" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit0381&layout=compact&theme=merko&hide_border=true&bg_color=0A1628&title_color=E8B83A&text_color=C8A84B" height="175"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit0381&theme=merko&hide_border=true&background=0A1628&stroke=C8A84B&ring=E8B83A&fire=CC2200&currStreakLabel=E8B83A&sideLabels=C8A84B&dates=8aafd4&sideNums=E8B83A&currStreakNum=CC2200" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Trophies — Pirate Achievements
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpit0381&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff5555&text_color=ffffff&ring_color=ff3333" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit0381&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit0381&theme=radical&hide_border=true&background=0d0d0d&stroke=ff3333&ring=ff3333&fire=ff5500&currStreakLabel=ff3333&sideLabels=ffffff&dates=888888" />
+<img src="https://github-profile-trophy.vercel.app/?username=arpit0381&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🗺️ Ship's Log — Featured Projects
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| ⚓ Project | 🍎 Devil Fruit Used | 📜 Mission | 🌊 Status |
+|---|---|---|---|
+| **Catalyst Crew Platform** | MERN + Next.js + Tailwind | Startup OS for founders | 🟢 SAILING |
+| **Connect Me Portfolio** | React + Framer + Vercel | Personal brand pirate flag | ✅ DOCKED |
+| **MERN SaaS Boilerplate** | Node + MongoDB + JWT | Launch startups in days | ✅ DOCKED |
+| **UI Component Library** | React + Storybook + Tailwind | Reusable weapon arsenal | 🔧 FORGING |
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Grand Line Activity Chart
 
 <p align="center">
-<a href="https://connect-me-pearl-seven.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arpit0381&repo=connect-me&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff5555&text_color=ffffff" />
-</a>
-</p>
-
-| 🚀 Project | 🛠 Tech | ⭐ Highlight |
-|---|---|---|
-| **Catalyst Crew Platform** | MERN, Next.js, Tailwind | Startup OS for builders |
-| **Connect Me Portfolio** | React, Framer, Vercel | Live personal brand site |
-| **MERN SaaS Boilerplate** | Node, MongoDB, JWT | Production-ready starter |
-| **UI Component Library** | React, Storybook, Tailwind | Reusable design system |
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit0381&theme=redical&bg_color=0d0d0d&color=ff3333&line=ff5500&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit0381&bg_color=0A1628&color=E8B83A&line=CC2200&point=C8A84B&area=true&hide_border=true&area_color=1B4F8A" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake — Grand Line Voyage
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/arpit0381/arpit0381/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpit0381/arpit0381/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpit0381/arpit0381/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/arpit0381/arpit0381/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
+<details>
+<summary>⚙️ How to activate the Snake (3 easy steps)</summary>
+
+**Step 1** — In your `arpit0381/arpit0381` repo, create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 2** — Go to **Settings → Actions → General** → set Workflow permissions to **Read and write permissions** → Save.
+
+**Step 3** — Go to **Actions tab** → click **Generate Snake Animation** → **Run workflow**. Done!
+
+</details>
+
+---
+
+## 💬 Pirate Wisdom
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" />
 </p>
 
 ---
 
-## 💬 Random Dev Quote
+## 📡 Den Den Mushi — Connect
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+> *"Whether I win or lose, I'll never regret fighting. Let's connect and build something legendary."*
+
 </p>
-
----
-
-## 🤝 Let's Connect & Build Together!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arpit-bajpai-6780aa220">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_the_Crew-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1628" height="36"/>
 </a>
+</p>
+<p align="center">
 <a href="https://connect-me-pearl-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-Board_the_Thousand_Sunny-000000?style=for-the-badge&logo=vercel&logoColor=E8B83A&labelColor=0A1628" height="36"/>
 </a>
+</p>
+<p align="center">
 <a href="mailto:arpitbajpai038@gmail.com">
-<img src="https://img.shields.io/badge/Email-Collaborate-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Send_an_SOS_Signal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1628" height="36"/>
 </a>
 </p>
 
+---
+
 <p align="center">
-<b>Open to freelance projects, startup collabs, and building the next big thing. 🔥</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC2200,50:1B4F8A,100:0A1628&height=130&section=footer&text=⚓+Sailing+towards+the+One+Piece...&fontSize=18&fontColor=E8B83A&animation=fadeIn" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=100&section=footer&animation=fadeIn" />
+<b>🏴‍☠️ "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the King of the Pirates!" — Monkey D. Luffy 🏴‍☠️</b>
+<br/>
+<sub>Open to freelance · startup collabs · building the next big thing · Kanpur, India 🇮🇳</sub>
 </p>
