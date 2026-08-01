@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=700&size=26&duration=2500&pause=1000&color=E8B83A&center=true&vCenter=true&width=750&height=60&lines=🏴‍☠️+Founder+%40+Catalyst+Crew+%E2%80%94+Building+the+Future+of+Startups;⚓+Full+Stack+MERN+Specialist+|+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;🍎+Ate+the+Code-Code+no+Mi+(Paramecia+Type+Devil+Fruit);⚡+Crafting+High-Performance+Web+Apps+%26+Ultra-Sleek+UIs;🗺️+Navigating+the+Grand+Line+of+Technology;🔥+My+dream+is+to+become+King+of+Developers!" />
 </p>
 
+<!-- TOP COMMAND DASHBOARD & LIVE STATS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpit0381&label=Nakama+Count&color=CC2200&style=for-the-badge&labelColor=0A1628" />
   &nbsp;
@@ -18,16 +19,18 @@
 
 <br/>
 
+<!-- DASHBOARD QUICK MATRIX -->
 <div align="center">
 
-| 📍 Location | 💼 Title | 🚀 Enterprise | ⚡ Status |
+| 📍 Location | 💼 Role | 🚀 Venture | ⚡ Availability |
 |:---:|:---:|:---:|:---:|
-| **Kanpur, India 🇮🇳** | **Full Stack Engineer** | **Founder @ Catalyst Crew** | **Open to Collabs & Freelance** |
+| **Kanpur, India 🇮🇳** | **Full Stack Architect** | **Founder @ Catalyst Crew** | **Collabs & Freelance** |
 
 </div>
 
 <br/>
 
+<!-- SOCIAL QUICK DOCK -->
 <p align="center">
   <a href="https://www.linkedin.com/in/arpit-bajpai-6780aa220">
     <img src="https://img.shields.io/badge/LinkedIn-Den__Den__Mushi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1628"/>
@@ -118,9 +121,130 @@ const ArpitBajpai: DeveloperProfile = {
 
 ---
 
-## 🍎 Devil Fruit Powers — Skill Arsenal & Proficiency
+## ⚡ Skill Set &lt;/&gt;
 
-> *"Every legendary developer wields master-tier abilities. Here is my complete combat arsenal."*
+<p align="center">
+  <i>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions.</i>
+</p>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br/><br/><sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br/><br/><sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br/><br/><sub><b>React</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+        <br/><br/><sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+        <br/><br/><sub><b>Tailwind CSS</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
+        <br/><br/><sub><b>Framer Motion</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br/><br/><sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <br/><br/><sub><b>CSS3</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br/><br/><sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express.js" style="filter: invert(1);" />
+        <br/><br/><sub><b>Express.js</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br/><br/><sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <br/><br/><sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+        <br/><br/><sub><b>Redis</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="REST API" />
+        <br/><br/><sub><b>REST API</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+        <br/><br/><sub><b>GraphQL</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br/><br/><sub><b>Docker</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br/><br/><sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="filter: invert(1);" />
+        <br/><br/><sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" style="filter: invert(1);" />
+        <br/><br/><sub><b>Vercel</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+        <br/><br/><sub><b>Figma</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+        <br/><br/><sub><b>Postman</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+        <br/><br/><sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+        <br/><br/><sub><b>Redux</b></sub>
+      </td>
+      <td align="center" width="110" height="100">
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+        <br/><br/><sub><b>NPM</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,graphql,docker,git,github,vercel,figma,postman,vscode&theme=dark&perline=9" />
+</p>
+
+---
+
+## 🍎 Devil Fruit Powers — Skill Arsenal & Shield Badges
 
 ### ⚛️ Frontend Mastery
 <p align="left">
